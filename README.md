@@ -14,8 +14,9 @@ I'm currently very interested in programming, however I have been throughout my 
 📫 How to reach me? I don't use social media. But you can get hold of me by email: [iveszane@gmail.com](mailto:iveszane@gmail.com). You might be able to get hold of me on [LinkdIn](https://www.linkedin.com/in/zane-ives-835a55aa/)
 
 ## Deployed projects
-- [Tic Tac Toe](https://jozenones-project.web.app/)
+- [Tic Tac Toe](https://tictactoe-zives.firebaseapp.com/)
 - [Bosch&Botha Safaris](https://zaneives.github.io/boschnbotha-project/)
+- [ng6tut](https://ng6tut-zives.web.app/)
 
 <!---
 Zaneives/Zaneives is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
