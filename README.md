@@ -5,7 +5,7 @@
 I'm a human male, aged 37 (at time of writing. Oct 2022).
 
 👀 I'm an avid learner of many things. I love to watch/listen to informative videos/podcasts in order to understand how things work. 
-I'm currently very interested in programming, however I have been throughout my life, since I was young.
+I'm currently very interested in programming, however I have been throughout my life, since I was young. I also love to practice my [typing.](https://monkeytype.com/profile/zaneives)
 
 🌱 I'm currently learning web development. I believe I have HTML, Javascript and CSS down and working on the Angular framework. Then I'll probably head off to backend.
 
