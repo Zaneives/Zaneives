@@ -2,7 +2,7 @@
 
 👋 Hi, I'm @Zaneives.
 
-I'm a human male, aged 37 (at time of writing. Oct 2022).
+I'm a human male, aged 37 (at time of writing: Oct 2022. Update1 Nov 2022: still human male).
 
 👀 I'm an avid learner of many things. I love to watch/listen to informative videos/podcasts in order to understand how things work. 
 I'm currently very interested in programming, however I have been throughout my life, since I was young. I also love to practice my [typing.](https://monkeytype.com/profile/zaneives)
